@@ -1,0 +1,36 @@
+🔗 CONNECTION DETAILS
+🔴 Laser Module
+VCC → 5V
+GND → GND
+Signal → GPIO 4
+
+🌗 LDR Module
+VCC → 3.3V
+GND → GND
+Signal →GPIO 34
+
+🔐 Keypad Connections
+| Keypad Pin | ESP32 Pin |
+| ---------- | --------- |
+| R1         | 13        |
+| R2         | 12        |
+| R3         | 14        |
+| R4         | 27        |
+| C1         | 26        |
+| C2         | 25        |
+| C3         | 33        |
+| C4         | 32        |
+
+
+👆 Touch Sensor
+VCC → 3.3V
+GND → GND
+OUT → GPIO 23
+
+🔊 Buzzer
+Positive → GPIO 18
+Negative → GND
+
+💡 LED
+Positive → GPIO 19 (through 220Ω resistor)
+Negative → GND
