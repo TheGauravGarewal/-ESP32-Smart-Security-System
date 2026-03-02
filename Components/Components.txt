@@ -1,0 +1,12 @@
+🔌 COMPONENTS REQUIRED
+ESP32
+4x4 Keypad (ZRX-543)
+Laser module
+LDR
+10k Resistor (for LDR divider)
+Buzzer
+LED
+220Ω Resistor (for LED)
+Touch Sensor
+Breadboard
+Jumper wires
